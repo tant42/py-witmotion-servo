@@ -14,7 +14,7 @@ setuptools.setup(
     url="https://github.com/meseta/py-witmotion-servo",
     packages=setuptools.find_packages(),
     install_requires=[
-        "hidapi==0.9.0.post3",
+        "hidapi==0.14.0.post4",
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
